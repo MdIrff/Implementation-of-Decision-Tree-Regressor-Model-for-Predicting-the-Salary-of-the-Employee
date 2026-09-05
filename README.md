@@ -106,6 +106,7 @@ display(importances)
 <img width="1750" height="651" alt="image" src="https://github.com/user-attachments/assets/28e38e15-84ff-4d0a-ae8b-1276bc490cf8" />
 <img width="598" height="492" alt="image" src="https://github.com/user-attachments/assets/febf98d5-69e4-4c60-9a26-316f59df62fe" />
 <img width="1100" height="775" alt="image" src="https://github.com/user-attachments/assets/0ba6ec30-0e57-4f53-b51a-4b18b2c02d7c" />
+.
 
 
 ## Result:
